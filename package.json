@@ -1,5 +1,5 @@
 {
-  "name": "react-native-jalali-datepicker",
+  "name": "react-native-jalali-ios-style-datepicker",
   "version": "1.0.0",
   "description": "React Native Jalali DatePicker component (IOS Style) for both Android and iOS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AZIMAT/react-native-jalali-datepicker.git"
+    "url": "git+https://github.com/AZIMAT/react-native-jalali-ios-style-datepicker.git"
   },
   "peerDependencies": {
     "react-native": "^0.64.0",
@@ -36,7 +36,7 @@
   "author": "Azim Atefi <atefiazim1997@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AZIMAT/react-native-jalali-datepicker/issues"
+    "url": "https://github.com/AZIMAT/react-native-jalali-ios-style-datepicker/issues"
   },
-  "homepage": "https://github.com/AZIMAT/react-native-jalali-datepicker#readme"
+  "homepage": "https://github.com/AZIMAT/react-native-jalali-ios-style-datepicker#readme"
 }
